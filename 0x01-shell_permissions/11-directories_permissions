@@ -1,2 +1,2 @@
 #!/bin/bash
-sudochmod -R 711 ./
+sudochmod -R a+X *
